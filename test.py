@@ -1,5 +1,6 @@
 import json
 import math
+import random
 
 y = {'age': 33, 'height': 170, 'bmi': 22}
 f = open("textjson.txt", "w")
@@ -16,3 +17,6 @@ if __name__ == '__main__':
     print(math.pow(2, 3))
     print(math.e)
     print(math.pi)
+	#print(random.random())
+	print(random.sample(range(20),5))
+	print(random.randrange(8))
