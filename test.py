@@ -13,10 +13,10 @@ for s in list_a[:]:
 list_a
 
 if __name__ == '__main__':
-    print(math.sqrt(3))
-    print(math.pow(2, 3))
-    print(math.e)
-    print(math.pi)
+	print(math.sqrt(3))
+	print(math.pow(2, 3))
+	print(math.e)
+	print(math.pi)
 	#print(random.random())
 	print(random.sample(range(20),5))
 	print(random.randrange(8))
