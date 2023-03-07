@@ -1,6 +1,6 @@
 # cruisePi
 
-## 本プロジェクトはREACTを使っています
+## 本プロジェクトは学習用リポジトリです
 
 >I respect Henry Ford. He invented superior production methods and created the automobile society.
 > Time has flown by, now cars are commonplace, and we can go all over the world by plane.
